@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bookApp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-05T18:59:45.349834+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 64ae46d5f188eb3af91269154cced5f4a508f1e6a5cc5b79735aa33d2818fafb
+    name: bookApp
+    type: application
+    urls:
+    - https://pearguacamole.github.io/helm-charts/bookApp-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-05T18:59:45.349267+05:30"
